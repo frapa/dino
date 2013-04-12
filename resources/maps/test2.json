@@ -1,0 +1,20 @@
+{
+    "player_pos": {
+        "y": 200, 
+        "x": 200
+    }, 
+    "sky_color": [
+        170, 
+        220, 
+        255, 
+        110, 
+        200, 
+        255
+    ],
+    "static_entities": [
+        {"class": "sprite", "x": 200, "y": -48, "type": "grass"},
+        {"class": "sprite", "x": 248, "y": -48, "type": "grass"},
+        {"class": "block", "vertices": [-500, -400, 2000, 400], "color": [154, 66, 6]},
+        {"class": "collision", "rect": [-500, -400, 2000, 400], "friction": 300}
+    ]
+}

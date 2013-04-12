@@ -1,0 +1,27 @@
+  * If you jump and hit a wall then, instead of walking it goes on but shows the
+    dino pushing on the air.
+
+
+== MAP STRUCTURE
+
+Any entity is saved in the map file. There are:
+
+  * STATIC ENTITIES
+    These are entities that do not move, i.e. tiles. Such entities are subdivided into two *classes*:
+
+      - SPRITES
+        These entities live in the tile level and are images.
+
+        Fields: LABELS, *X, *Y, *CLASS, *TYPE, RECT
+        * indicates compulsory fields
+
+      - BLOCKS
+        These entities are just GL_QUADS use to fill the gaps without using and loading to many images.
+    
+        Fields: LABELS, *VERTICES, *COLOR, *CLASS, RECT
+        * indicates compulsory fields
+      
+      - COLLISION
+        Entities used only for collision purpose.
+
+        Fields: *CLASS, *RECT, *FRICTION, LABELS

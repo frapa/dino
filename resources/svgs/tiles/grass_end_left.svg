@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="grass_end_left.svg"
+   inkscape:export-filename="/home/francesco/Programming/Python/games/ppp/resources/tiles/grass.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.9126766"
+     inkscape:cx="57.218942"
+     inkscape:cy="40.546808"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     gridtolerance="10"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:snap-to-guides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       color="#0101ff"
+       opacity="0.07843137"
+       empcolor="#0101ff"
+       empopacity="0.15686275" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,48"
+       id="guide2987" />
+    <sodipodi:guide
+       position="48,0"
+       orientation="-64,0"
+       id="guide2989" />
+    <sodipodi:guide
+       position="48,64"
+       orientation="0,-48"
+       id="guide2991" />
+    <sodipodi:guide
+       position="0,64"
+       orientation="64,0"
+       id="guide2993" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,48"
+       id="guide2995" />
+    <sodipodi:guide
+       position="48,0"
+       orientation="-64,0"
+       id="guide2997" />
+    <sodipodi:guide
+       position="48,64"
+       orientation="0,-48"
+       id="guide2999" />
+    <sodipodi:guide
+       position="0,64"
+       orientation="64,0"
+       id="guide3001" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,48"
+       id="guide3003" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="dirt"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.3621)">
+    <rect
+       style="fill:#9a4206;fill-opacity:1;stroke:none"
+       id="rect3005"
+       width="48"
+       height="48.000019"
+       x="0"
+       y="15.99998"
+       transform="translate(0,988.36212)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="shadow">
+    <path
+       style="fill:#612903;fill-opacity:1;stroke:none"
+       d="m 0,16 48,0 c 0,0 0,15 0,17 -2,0 -3.891815,-2 -6,-2 -2.108185,0 -3.891815,2 -6,2 -2.108185,0 -3.891815,-2 -6,-2 -2.108185,0 -3.891815,2 -6,2 -2.108185,0 -4.158289,-0.974064 -6,-2 C 11.176964,27.199186 0,21 0,16 z"
+       id="path3824-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccczzzzac" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="grass">
+    <path
+       style="fill:#59be07;fill-opacity:1;stroke:none"
+       d="m 3,16 45,0 c 0,0 0,12 0,14 -2,0 -3.891815,-2 -6,-2 -2.108185,0 -3.891815,2 -6,2 -2.108185,0 -3.891815,-2 -6,-2 -2.108185,0 -3.891815,2 -6,2 -2.108185,0 -4.148123,-0.992529 -6,-2 C 12.375353,24.940041 3,20 3,16 z"
+       id="path3824"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccczzzzac" />
+  </g>
+</svg>
